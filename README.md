@@ -44,13 +44,9 @@ Conclusion: While air quality is a critical environmental issue, this dataset su
 
 
 
-### Dashboard
+### Interactive Dashboard
 
-![AQI   Health Overview 1](https://github.com/user-attachments/assets/378e3434-432d-418c-a549-4d1d5cd9e571)
-
-
-![AQI   Health Overview 2 ](https://github.com/user-attachments/assets/97b721a6-2865-4675-b48d-dd3698d92b7e)
-
+I created a Tableau dashboard. You can view it here: [View Dashboard on Tableau public](https://public.tableau.com/views/AQIandRespiratoryHealthImpact/AQIHealthOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard serves as a dynamic analytical tool that allows users to:
 
